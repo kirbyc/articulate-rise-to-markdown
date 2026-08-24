@@ -436,4 +436,5 @@ This software is provided as-is, without warranty. Published course structures c
 
 # License
 
-Add an open-source license before publishing. The MIT License is a common permissive option, but choose a license that matches your ownership rights and sharing requirements.
+Released into the public domain under the [Unlicense](https://unlicense.org/). You are free to use, modify, and distribute this project for any purpose.
+See the LICENSE file for the complete terms.
